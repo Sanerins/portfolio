@@ -357,6 +357,11 @@ b, strong {
   margin-left: 15px;
 }
 
+.icon {
+  width: 28px;
+  margin: 4px;
+}
+
 .owl-carousel .owl-nav span {
   display: none;
 }
